@@ -14,7 +14,9 @@
   "license": "ISC",
   "dependencies": {
     "babel-polyfill": "^6.26.0",
+    "body-parser": "^1.19.0",
     "ejs": "^2.6.2",
+    "express": "^4.17.1",
     "md5-node": "^1.0.1",
     "silly-datetime": "^0.1.2"
   },
@@ -26,6 +28,7 @@
     "babel-preset-env": "^1.7.0",
     "babel-preset-stage-2": "^6.24.1",
     "babel-register": "^6.26.0",
-    "jest": "^24.8.0"
+    "jest": "^24.8.0",
+    "mongodb": "^3.2.7"
   }
 }
